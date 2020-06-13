@@ -1,0 +1,7 @@
+balance Uv0zUKHChIxj6ZZ4cXmtpm6Wwai1cbCg
+loan XbiGbNsiQiJVcotNpbR9mpZGtYIkXDt1
+salt UC0Uh8tYQowrPCQHLyQsVwlmzbTwmkpV
+loanlimit c6oijXapmHx34AXnaLHKfQ37Pc5Pu74h
+overlimit 5uqbsPIB4JIC2kvLzNtpMgEMk5yRZhMC
+opendate YkIsb0qqTwNS7ckfKcpVJLyDvrQo6xtw
+password Ay0sF4Xg2rfMIGR3UwIcaio12aIJwvwM
