@@ -33,8 +33,8 @@ def LoginUser(userid, pwd):
     re = db.select('users','salt, password',{'userid':userid})
     if re != None:
         crypt = Cryptor()
-        _, password = crypt.hash(re[0]['salt'], re[0]['password'])
-        if(password == pwd):
+        _, password = crypt.hash(pwd,re[0]['salt'])
+        if(password == re[0]['password']):
             db.close()
             return True
     db.close()
